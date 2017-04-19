@@ -1,4 +1,7 @@
-# test coverage for  [type-check (v0.3.2)](https://github.com/gkz/type-check)  [![npm package](https://img.shields.io/npm/v/npmtest-type-check.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-type-check) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-type-check.svg)](https://travis-ci.org/npmtest/node-npmtest-type-check)
+# npmtest-type-check
+
+#### basic test coverage for  [type-check (v0.3.2)](https://github.com/gkz/type-check)  [![npm package](https://img.shields.io/npm/v/npmtest-type-check.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-type-check) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-type-check.svg)](https://travis-ci.org/npmtest/node-npmtest-type-check)
+
 #### type-check allows you to check the types of JavaScript values at runtime with a Haskell like type syntax.
 
 [![NPM](https://nodei.co/npm/type-check.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/type-check)

@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [type-check (v0.3.2)](https://github.com/gkz/type-check) [![npm package](https://img.shields.io/npm/v/npmtest-type-check.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-type-check) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-type-check.svg)](https://travis-ci.org/npmtest/node-npmtest-type-check)",
+    "description": "#### basic test coverage for  [type-check (v0.3.2)](https://github.com/gkz/type-check)  [![npm package](https://img.shields.io/npm/v/npmtest-type-check.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-type-check) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-type-check.svg)](https://travis-ci.org/npmtest/node-npmtest-type-check)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "type-check": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
